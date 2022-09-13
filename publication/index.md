@@ -7,7 +7,8 @@ layout: base
 + (CCF-A) **_<u>Du X</u>_**, Yan J, Zha H. **Joint Link Prediction and Network Alignment via Cross-graph Embedding**[C]. _IJCAI_, 2019: 2251-2257.
 
 
-# Patent
+# Patents
++ 一种异常卡识别方法、装置、电子设备及存储介质[P]. 上海市：CN114881783A,2022-08-09.
 + 生成对象简称的方法和系统、存储介质以及程序产品[P]. 上海市：CN114282545A,2022-04-05.
 + 知识图谱的噪声识别方法、装置及计算机可读存储介质[P]. 上海市：CN114048322A,2022-02-15.
 + 一种协同训练方法、装置及计算机可读存储介质[P]. 上海市：CN113705662A,2021-11-26.
