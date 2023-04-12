@@ -3,11 +3,13 @@ layout: base
 ---
 
 # Publications
+Note: * equal contribution
++ (Submitted) Zhang R*, **_<u>Du X</u>_***, Yan J, Zhang S. **Decoupling Concept Bottleneck Model**.
 + (CCF-A) **_<u>Du X</u>_**, Yan J, Zhang R, et al. **Cross-network Skip-gram Embedding for Joint Network Alignment and Link Prediction**[J]. _IEEE Transactions on Knowledge and Data Engineering_, 2020, 34(3): 1080 - 1095.
 + (CCF-A) **_<u>Du X</u>_**, Yan J, Zha H. **Joint Link Prediction and Network Alignment via Cross-graph Embedding**[C]. _IJCAI_, 2019: 2251-2257.
 
-
 # Patents
++ 基于时序关联网络的分析方法、装置及计算机可读存储介质[P]. 上海市：CN115086144A,2022-09-20.
 + 一种异常卡识别方法、装置、电子设备及存储介质[P]. 上海市：CN114881783A,2022-08-09.
 + 生成对象简称的方法和系统、存储介质以及程序产品[P]. 上海市：CN114282545A,2022-04-05.
 + 知识图谱的噪声识别方法、装置及计算机可读存储介质[P]. 上海市：CN114048322A,2022-02-15.
@@ -20,4 +22,3 @@ layout: base
 + 一种确定对象特征的方法及装置[P]. 上海市：CN112380494A,2021-02-19.
 + 知识图谱构建方法、装置、电子设备及存储介质[P]. 上海市：CN110807103A,2020-02-18.
 + 无标签对象的分类和检测套码的方法、装置及计算机可读存储介质[P]. 上海市：CN110781955A,2020-02-11.
-
