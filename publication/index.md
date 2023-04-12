@@ -4,7 +4,7 @@ layout: base
 
 # Publications
 Note: * equal contribution
-+ (Submitted) Zhang R*, **_<u>Du X</u>_***, Yan J, Zhang S. **Decoupling Concept Bottleneck Model**.
++ (Submitted) Zhang R\*, **_<u>Du X</u>_**\*, Yan J, Zhang S. **Decoupling Concept Bottleneck Model**.
 + (CCF-A) **_<u>Du X</u>_**, Yan J, Zhang R, et al. **Cross-network Skip-gram Embedding for Joint Network Alignment and Link Prediction**[J]. _IEEE Transactions on Knowledge and Data Engineering_, 2020, 34(3): 1080 - 1095.
 + (CCF-A) **_<u>Du X</u>_**, Yan J, Zha H. **Joint Link Prediction and Network Alignment via Cross-graph Embedding**[C]. _IJCAI_, 2019: 2251-2257.
 
