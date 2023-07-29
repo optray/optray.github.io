@@ -20,8 +20,8 @@ Rui Zhang received the BS degree from the School of Mathematical Science, East C
 * **2018**: Second Prize, National Undergraduate Mathematics Contest Final
 * **2016**: Excellent Scholarship in ECNU
 
-# Publication & Patents
-+ [<u>Publication & Patents</u>](publication)
+# Publication
++ [<u>Publication</u>](publication)
 
 
 
