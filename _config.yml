@@ -1,14 +1,14 @@
 # Site settings
 title: Homepage
 baseurl: ""
-url: "https://deepopo.github.io"
+url: "https://optray.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Xingbo Du
-  desc: Shanghai, China
-  email: duxingbo@sjtu.edu.cn
+  name: Rui Zhang
+  desc: Beijing, China
+  email: rayzhang@amss.ac.cn
   selfie: assets/img/profile.jpg
 
 # social
@@ -19,7 +19,6 @@ social:
   dribbble:
   facebook: 
   flickr:
-  github: deepopo
   google_plus:
   instagram:
   keybase:
@@ -31,7 +30,6 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: BradleyDoublePo
   vimeo:
   wordpress:
   youtube:
