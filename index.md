@@ -21,6 +21,7 @@ Rui Zhang received the BS degree from the School of Mathematical Science, East C
 * **2016**: Excellent Scholarship in ECNU
 
 # Publication
++ [Google Scholar](https://scholar.google.com/citations?user=8V50qncAAAAJ&hl=zh-CN&oi=sra)
 + [<u>Publication</u>](publication)
 
 # Motto
