@@ -3,40 +3,25 @@ layout: about
 ---
 
 # Short Bio
-I'm currently a Ph.D candidate in Department of Computer Science and Engineering, Shanghai Jiao Tong University. Before that, I received my B.S. degree (2017) and M.E. degree (2020) in East China Normal University, respectively. From 2020 to 2022, I was employed in the Institute of Financial Technology, China UnionPay. My current research interest includes **GNN (Graph Neural Network)** and **AI for EDA (Electronics Design Automation)**. Welcome to contact with me: <u>duxingbo@sjtu.edu.cn</u>.
+Rui Zhang received the BS degree from the School of Mathematical Science, East China Normal University, Shanghai, China, in 2019. He is currently working toward the PhD degree in the Academy of Mathematics and Systems Science (AMSS) of the Chinese Academy of Sciences (CAS), China. His current research interests include **AI for scientific computing** and **interpretable machine learning**. Welcome to contact with me: <u>rayzhang@amss.ac.cn</u>.
+ 
+# Experience
+* 2019.9-2024.6 (Expected): PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
+  * Major: Probability and Mathematical Statistics
+  * Supervisor: [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html)
+* 2022.5-2023.7: Research Intern, [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+  * Mentor: [Qi Meng](https://www.microsoft.com/en-us/research/people/meq/)
+* 2015.9-2019.6: BS, [School of Mathematical Science, East China Normal University](https://math.ecnu.edu.cn/)
+  * Major: Mathematics and Applied Mathematics
 
-# Education
-+ **Shanghai Jiao Tong University**, School of Electronic Information and Electrical Engineering, Ph.D (2022.04 ~ Now)
-  + **Class of Wuwenjun Artificial Intelligence Honorary Doctor** 
-  + **Major**: Computer Science and Engineering
-  + **Superviser**: Prof. [<u>Junchi Yan</u>](https://thinklab.sjtu.edu.cn/)
-+ **East China Normal University**, School of Computer Science and Software Engineering, Master (2017.09 ~ 2020.07)
-  + **Major**: Data Science and Engineering
-  + **Superviser**: Prof. [<u>Hongyuan Zha</u>](https://sds.cuhk.edu.cn/teacher/65) (National 'thousand talents' program)
-+ **East China Normal University**, Institute of Technology, Bachelor (2013.09 ~ 2017.07)
-  + **Major**: Mathematics and Applied Mathematics
-
-# Career
-+ **China UnionPay Co., Ltd**, Institute of Financial Technology, Researcher (2020/07 ~ 2022/03)
-  + Member of key special project 'research and application demonstration of financial fraud and payment acceptance market violation detection and disposal technology', which is part of **the national key research and development program** 'social governance and smart society technology support'.
-  + Through large-scale graph computing and graph neural network algorithms, I acted as a project leader and completed the identification and prevention algorithm research of various risk control scenarios such as scalpers, gambling, fraud and counterfeiting. Besides, I participated in the construction of risk control knowledge graph, effectively improving the risk control efficiency, and assisting the Ministry of Public Security to discover some important fraud groups. 
-  + During the tenure, I applied for 13 invention patents, including 6 as the first inventor.
-
-# Internship
-+ **Shanghai Artificial Intelligence Innovation Center**, Intern Researcher (2022/06 ~ Now)
-  + Research on the interpretability of neural networks for trusted security. We study the concept bottleneck model in image classification and propose a human-computer interaction system based on semantic information, which can implement model intervention and correction.
+# Selected Awards
+* **2022**: [Hua Loo-Keng Scholarship](amss.cas.cn/yjsjy/jxj/hlg/202006/t20200630_5613958.html)
+* **2019**: Outstanding Undergraduate in Shanghai
+* **2018**: Second Prize, National Undergraduate Mathematics Contest Final
+* **2016**: Excellent Scholarship in ECNU
 
 # Publication & Patents
 + [<u>Publication & Patents</u>](publication)
 
-# Award
-+ National Scholarship in 2019.
-+ Outstanding Graduate in Shanghai (Twice in 2017/2020).
 
-# Other Academic Activities
-+ Serve as Reviewer: ICML, NeurIPS, CVPR, CIKM, PR, etc.
-+ Oral in IJCAI19.
-
-# Interests
-Apart from the research, I'm also interested in stock investment and music.
 
