@@ -15,7 +15,7 @@ Rui Zhang received the BS degree from the School of Mathematical Science, East C
   * Major: Mathematics and Applied Mathematics
 
 # Selected Awards
-* **2022**: [Hua Loo-Keng Scholarship](amss.cas.cn/yjsjy/jxj/hlg/202006/t20200630_5613958.html)
+* **2022**: [Hua Loo-Keng Scholarship](https://amss.cas.cn/yjsjy/jxj/hlg/202006/t20200630_5613958.html)
 * **2019**: Outstanding Undergraduate in Shanghai
 * **2018**: Second Prize, National Undergraduate Mathematics Contest Final
 * **2016**: Excellent Scholarship in ECNU
