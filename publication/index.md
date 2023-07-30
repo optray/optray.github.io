@@ -2,7 +2,7 @@
 layout: base 
 ---
 
-# Publications
+# Publication
 Note: * equal contribution
 + (Submitted) **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. The decoupling concept bottleneck model.
 + (Submitted) **Zhang, R.**, Meng, Q., & Ma, Z.M. Deciphering and integrating physical invariants for neural operator learning with various physics.
