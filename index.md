@@ -4,6 +4,8 @@ layout: about
 
 # Short Bio
 Rui Zhang received the BS degree from the School of Mathematical Science, East China Normal University, Shanghai, China, in 2019. He is currently working toward the PhD degree in the Academy of Mathematics and Systems Science (AMSS) of the Chinese Academy of Sciences (CAS), China. His current research interests include **AI for scientific computing** and **interpretable machine learning**. Welcome to contact with me: <u>rayzhang@amss.ac.cn</u>.
+
+_I'm seeking the postdoc opportunity in machine learning for scientific computing beginning next summer!_
  
 # Experience
 * 2019.9-2024.6 (Expected): PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
