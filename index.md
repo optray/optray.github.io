@@ -18,6 +18,7 @@ _I'm seeking the postdoc opportunity beginning next summer!_
   * Major: Mathematics and Applied Mathematics
 
 # Selected Awards
+* **2023**: AMSS Special Prize of President Scholarship
 * **2022**: [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
 * **2019**: Outstanding Undergraduate in Shanghai
 * **2018**: Second Prize, National Undergraduate Mathematics Contest Final
