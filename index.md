@@ -26,6 +26,10 @@ Rui Zhang received the BS degree from the School of Mathematical Science, East C
 # Publication
 + [Google Scholar](https://scholar.google.com/citations?user=8V50qncAAAAJ&hl=zh-CN&oi=sra)
 + [<u>Publication</u>](publication)
++ **Recent Paper**
+    * (Submitted) **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. arXiv preprint arXiv:2302.05104. [Link](https://arxiv.org/abs/2302.05104) [Code](https://github.com/optray/MCNP)
+    * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2023). Deciphering and integrating invariants for neural operator learning with various physical mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
+
 
 # Reviewers
 + Transactions on Machine Learning Research
