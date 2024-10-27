@@ -3,8 +3,6 @@ layout: about
 ---
 
 # Short Bio
-Rui Zhang received the BS degree from the School of Mathematical Science, East China Normal University, Shanghai, China, in 2019. He is currently working toward the PhD degree in the Academy of Mathematics and Systems Science (AMSS) of the Chinese Academy of Sciences (CAS), China. His current research interests include **AI for scientific computing** and **interpretable machine learning**. Welcome to contact with me: <u>rayzhang@amss.ac.cn</u>.
-
 Rui Zhang obtained a B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing his doctorate, he joined Renmin University of China to engage in postdoctoral research. His main research interests include **physics-driven deep learning** and **interpretable neural networks**. During his doctoral studies, he received honors such as AMSS Special Prize of President Scholarship and the Hua Loo-Keng Scholarship. His main work has been published in journals and conferences such as IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. Welcome to contact with me: <u>rayzhang@ruc.edu.cn</u>.
  
 # Experience
