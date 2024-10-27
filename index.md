@@ -5,9 +5,12 @@ layout: about
 # Short Bio
 Rui Zhang received the BS degree from the School of Mathematical Science, East China Normal University, Shanghai, China, in 2019. He is currently working toward the PhD degree in the Academy of Mathematics and Systems Science (AMSS) of the Chinese Academy of Sciences (CAS), China. His current research interests include **AI for scientific computing** and **interpretable machine learning**. Welcome to contact with me: <u>rayzhang@amss.ac.cn</u>.
 
+Rui Zhang obtained a B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing his doctorate, he joined Renmin University of China to engage in postdoctoral research. His main research interests include **physics-driven deep learning** and **interpretable neural networks**. During his doctoral studies, he received honors such as AMSS Special Prize of President Scholarship and the Hua Loo-Keng Scholarship. His main work has been published in journals and conferences such as IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. Welcome to contact with me: <u>rayzhang@ruc.edu.cn</u>.
  
 # Experience
-* 2019.9-2024.6 (Expected): PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
+* 2024.9-Now，Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+  * Supervisor：Hao Sun
+* 2019.9-2024.6: PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
   * Major: Probability and Mathematical Statistics
   * Supervisor: [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html)
 * 2022.5-2023.7: Research Intern, [AI4Science Asia, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
@@ -32,6 +35,8 @@ Rui Zhang received the BS degree from the School of Mathematical Science, East C
 
 
 # Reviewers
++ IEEE Transactions on Pattern Analysis and Machine Intelligence
++ International Conference on Learning Representations (ICLR)
 + Transactions on Machine Learning Research
 + IEEE Transactions on Services Computing
 + AAAI Conference on Artificial Intelligence (AAAI)
