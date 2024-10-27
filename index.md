@@ -7,7 +7,7 @@ Rui Zhang obtained a B.S. degree from East China Normal University in 2019 and a
  
 # Experience
 * 2024.9-Now，Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
-  * Supervisor：Hao Sun
+  * Supervisor：[Hao Sun](https://gsai.ruc.edu.cn/haosun)
 * 2019.9-2024.6: PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
   * Major: Probability and Mathematical Statistics
   * Supervisor: [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html)
