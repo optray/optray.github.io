@@ -6,7 +6,7 @@ layout: about
 Rui Zhang obtained a B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing his doctorate, he joined Renmin University of China to engage in postdoctoral research. His main research interests include **physics-driven deep learning** and **interpretable neural networks**. During his doctoral studies, he received honors such as AMSS Special Prize of President Scholarship and the Hua Loo-Keng Scholarship. His main work has been published in journals and conferences such as IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. Welcome to contact with me: <u>rayzhang@ruc.edu.cn</u>.
  
 # Experience
-* 2024.9-Now，Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+* 2024.9-Now: Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
   * Supervisor: [Hao Sun](https://gsai.ruc.edu.cn/haosun)
 * 2019.9-2024.6: PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
   * Major: Probability and Mathematical Statistics
