@@ -6,7 +6,7 @@ layout: base
 Note: * equal contribution
 + (Submitted) **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. arXiv preprint arXiv:2302.05104. [Link](https://arxiv.org/abs/2302.05104) [Code](https://github.com/optray/MCNP)
 ## 2024
-+ **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2024). The decoupling concept bottleneck model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._
++ **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2024). The decoupling concept bottleneck model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
 ## 2023
 + **Zhang, R.**, Meng, Q., & Ma, Z.M. (2023). Deciphering and integrating invariants for neural operator learning with various physical mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
 ## 2022 
