@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Short Bio
-Rui Zhang obtained a B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing his doctorate, he joined Renmin University of China to engage in postdoctoral research. His main research interests include **physics-driven deep learning** and **interpretable neural networks**. During his doctoral studies, he received honors such as AMSS Special Prize of President Scholarship and the Hua Loo-Keng Scholarship. His main work has been published in journals and conferences such as IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. Welcome to contact with me: <u>rayzhang@ruc.edu.cn</u>.
+Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My main research interests include **physics-driven deep learning** and **interpretable neural networks**. During my doctoral studies, I was honored with awards such as the AMSS Special Prize of President Scholarship and the Hua Loo-Keng Scholarship. My work has been published in journals and conferences, including IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. Feel free to contact me at <u>rayzhang@ruc.edu.cn</u>.
  
 # Experience
 * 2024.9-Now: Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
