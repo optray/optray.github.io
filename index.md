@@ -34,10 +34,11 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 
 
 # Reviewers
-+ IEEE Transactions on Pattern Analysis and Machine Intelligence
++ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
++ IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
++ IEEE Transactions on Services Computing (IEEE TSC)
++ Transactions on Machine Learning Research (TMLR)
 + International Conference on Learning Representations (ICLR)
-+ Transactions on Machine Learning Research
-+ IEEE Transactions on Services Computing
 + AAAI Conference on Artificial Intelligence (AAAI)
 
 # Motto
