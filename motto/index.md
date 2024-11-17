@@ -22,7 +22,7 @@ layout: base
 + [齐木楠雄的灾难](https://movie.douban.com/subject/26801048/)
 
 ## My MBTI
-+ K-NN Algorithm: INTJ 
++ K-NN algorithm: INTJ 
 + Convex combination: 0.6 INTJ + 0.2 ENTJ + 0.1 ISTJ + 0.1 INFP
 
 ## Motto
