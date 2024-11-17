@@ -42,5 +42,5 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + AAAI Conference on Artificial Intelligence (AAAI)
 
 # Misc
-+ [<u>Motto</u>](Misc)
++ [<u>Misc</u>](Misc)
 
