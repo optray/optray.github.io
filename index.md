@@ -41,6 +41,6 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + International Conference on Learning Representations (ICLR)
 + AAAI Conference on Artificial Intelligence (AAAI)
 
-# Motto
-+ [<u>Motto</u>](motto)
+# Misc
++ [<u>Motto</u>](Misc)
 
