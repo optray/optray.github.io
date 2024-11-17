@@ -6,6 +6,7 @@ layout: base
 + [山丘](https://www.bilibili.com/video/BV1ur421M7RU/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
 + [当爱已成往事](https://www.bilibili.com/video/BV13N4y1L7HC/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
 + [国际歌](https://www.bilibili.com/video/BV1ZM4y1n7Ms/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
++ [我的祖国](https://www.bilibili.com/video/BV1UK4y1E7Ds/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
 + [一块红布](https://www.bilibili.com/video/BV1TT4y1s7oH/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
 + [心愿](https://www.bilibili.com/video/BV12y4y127AJ/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
 + [口是心非](https://www.bilibili.com/video/BV1ND4y1X74e/?share_source=copy_web&vd_source=cb3d26d7b5b480cac660566707c9be8b)
