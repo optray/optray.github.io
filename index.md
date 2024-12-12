@@ -38,6 +38,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 + IEEE Transactions on Services Computing (IEEE TSC)
 + Transactions on Machine Learning Research (TMLR)
++ Physics of Fluids (POF)
 + International Conference on Learning Representations (ICLR)
 + AAAI Conference on Artificial Intelligence (AAAI)
 
