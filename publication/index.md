@@ -7,7 +7,7 @@ Note: * equal contribution
 
 ## 2025
 
-+ **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://arxiv.org/abs/2302.05104) [Code](https://github.com/optray/MCNP)
++ **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
 + **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The decoupling concept bottleneck model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
 
 ## 2024
