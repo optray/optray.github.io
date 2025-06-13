@@ -5,6 +5,7 @@ layout: base
 # Publication
 Note: * equal contribution
 ## Perprint
++ **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2025). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
 + Wan, H., **Zhang, R.**, & Sun, H. (2025). Spectral-inspired Neural Operator for Data-efficient PDE Simulation in Physics-agnostic Regimes. arXiv preprint arXiv:2505.21573.
 ## 2025
 + Wan, H.\*, **Zhang, R.**\*, Wang, Q., Liu, Y., & Sun H. (2025). PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems. _International Joint Conference on Artificial Intelligence._
