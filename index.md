@@ -16,6 +16,8 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
   * Mentor: [Qi Meng](http://homepage.amss.ac.cn/research/homePage/a8636013d63440498442e91a549202f1/myHomePage.html#home)
 * 2015.9-2019.6: BS, [School of Mathematical Science, East China Normal University](https://math.ecnu.edu.cn/)
   * Major: Mathematics and Applied Mathematics
+# Grants
+* **2025**: China Postdoctoral Science Foundation (PI)
 
 # Selected Awards
 * **2023**: AMSS Special Prize of President Scholarship
