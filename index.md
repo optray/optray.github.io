@@ -18,6 +18,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
   * Major: Mathematics and Applied Mathematics
     
 # Grants
+* **2025**: Postdoctoral Fellowship Program of CPSF (Tier B)
 * **2025**: China Postdoctoral Science Foundation (PI)
 
 # Selected Awards
