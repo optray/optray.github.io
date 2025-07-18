@@ -3,3 +3,14 @@
 ---
 
 @import 'main';
+a {
+  color: #1a73e8; /* Google 蓝色，你也可以自定义 */
+}
+
+a:visited {
+  color: #5f6368;
+}
+
+a:hover {
+  color: #d93025;
+}
