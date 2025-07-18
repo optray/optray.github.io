@@ -21,13 +21,6 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 * **2025**: Postdoctoral Fellowship Program of CPSF (Tier B)
 * **2025**: China Postdoctoral Science Foundation (PI)
 
-# Selected Awards
-* **2023**: AMSS Special Prize of President Scholarship
-* **2022**: [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
-* **2019**: Outstanding Undergraduate in Shanghai
-* **2018**: Second Prize, National Undergraduate Mathematics Contest Final
-* **2016**: Excellent Scholarship in ECNU
-
 # Publication
 + [Google Scholar](https://scholar.google.com/citations?user=8V50qncAAAAJ&hl=zh-CN&oi=sra)
 + [<u>Publication</u>](publication)
@@ -39,17 +32,16 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
     * **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
     * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
 
+# Selected Awards
+* **2023**: AMSS Special Prize of President Scholarship
+* **2022**: [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
+* **2019**: Outstanding Undergraduate in Shanghai
+* **2018**: Second Prize, National Undergraduate Mathematics Contest Final
+* **2016**: Excellent Scholarship in ECNU
 
 # Reviewers
-+ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-+ IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
-+ IEEE Transactions on Services Computing (IEEE TSC)
-+ Transactions on Machine Learning Research (TMLR)
-+ Machine Intelligence Research (MIR)
-+ Physics of Fluids (POF)
-+ Neural Information Processing Systems (NeurIPS)
-+ International Conference on Learning Representations (ICLR)
-+ AAAI Conference on Artificial Intelligence (AAAI)
+* **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), IEEE Transactions on Services Computing (IEEE TSC), Transactions on Machine Learning Research (TMLR), Machine Intelligence Research (MIR), Physics of Fluids (POF)
+* **Conference**: Neural Information Processing Systems (NeurIPS), International Conference on Learning Representations (ICLR), AAAI Conference on Artificial Intelligence (AAAI)
 
 # Misc
 + [<u>Misc</u>](motto)
