@@ -4,7 +4,9 @@ layout: about
 
 # Short Bio
 Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My main research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences, including IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. If you are interested in my research or would like to explore potential collaboration, please feel free to contact me via <u>rayzhang@ruc.edu.cn</u> (Email) or **optray** (WeChat).
- 
+
+*I am currently seeking a tenure-track faculty position. If you have any suitable openings, please feel free to contact me.*
+
 # Experience
 * 2024.9-Now: Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
   * Supervisor: [Hao Sun](https://gsai.ruc.edu.cn/haosun)
