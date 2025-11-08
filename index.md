@@ -29,11 +29,11 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + [<u>Publication</u>](publication)
 + **Recent Paper**
     * **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2025). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
-    * Wan, H., **Zhang, R.**\#, & Sun, H.\# (2025). Spectral-inspired Neural Operator for Data-efficient PDE Simulation in Physics-agnostic Regimes. arXiv preprint arXiv:2505.21573.
-    * Wan, H.\*, **Zhang, R.**\*, Wang, Q., Liu, Y., & Sun H. (2025). PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems. _International Joint Conference on Artificial Intelligence._
+    * Wan, H., **Zhang, R.**\#, & Sun, H.\# (2025). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. arXiv preprint arXiv:2505.21573.
     * **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
     * **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
     * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
+    * **Zhang, R.**, & Zhang, S. (2022). Rethinking Influence Functions of Neural Networks in the Over-parameterized Regime. _In Proceedings of the AAAI Conference on Artificial Intelligence (**Oral**)._ [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20893)
 
 # Selected Awards
 * **2023**: AMSS Special Prize of President Scholarship
