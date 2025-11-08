@@ -7,12 +7,11 @@ Note: * equal contribution, \# corresponding author
 ## Perprint
 
 + **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2025). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
-+ Wan, H., **Zhang, R.**\#, & Sun, H.\# (2025). Spectral-inspired Neural Operator for Data-efficient PDE Simulation in Physics-agnostic Regimes. arXiv preprint arXiv:2505.21573.
++ Wan, H., **Zhang, R.**\#, & Sun, H.\# (2025). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. arXiv preprint arXiv:2505.21573.
 
 ## 2026
 
 + Wan, H., Wang, Q., Mi, Y., **Zhang, R.**, Sun, H.\#. (2026). PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-sampled Spatiotemporal Dynamics. _Proceedings of the AAAI Conference on Artificial Intelligence._ 
-
 + Du, X.\#\*, Dou, Q.\*, Fan, L., **Zhang, R.**\#. (2026). Flexible Concept Bottleneck Model. _Proceedings of the AAAI Conference on Artificial Intelligence._
   
 ## 2025
