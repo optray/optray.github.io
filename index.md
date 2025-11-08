@@ -27,7 +27,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 # Publication
 + [Google Scholar](https://scholar.google.com/citations?user=8V50qncAAAAJ&hl=zh-CN&oi=sra)
 + [<u>Publication</u>](publication)
-+ **Recent Paper**
++ **Selected Publications**
     * **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2025). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
     * Wan, H., **Zhang, R.**\#, & Sun, H.\# (2025). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. arXiv preprint arXiv:2505.21573.
     * **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
