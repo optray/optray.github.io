@@ -11,8 +11,8 @@ Note: * equal contribution, \# corresponding author
 
 ## 2026
 
-+ Wan, H., Wang, Q., Mi, Y., **Zhang, R.**\#, Sun, H.\# (2026). PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-sampled Spatiotemporal Dynamics. _Proceedings of the AAAI Conference on Artificial Intelligence._ 
-+ Du, X.\*\#, Dou, Q.\*, Fan, L., **Zhang, R.**\# (2026). Flexible Concept Bottleneck Model. _Proceedings of the AAAI Conference on Artificial Intelligence._
++ Wan, H., Wang, Q., Mi, Y., **Zhang, R.**\#, & Sun, H.\# (2026). PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-sampled Spatiotemporal Dynamics. _Proceedings of the AAAI Conference on Artificial Intelligence._ 
++ Du, X.\*\#, Dou, Q.\*, Fan, L., & **Zhang, R.**\# (2026). Flexible Concept Bottleneck Model. _Proceedings of the AAAI Conference on Artificial Intelligence._
   
 ## 2025
 
