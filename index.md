@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Short Bio
-Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My main research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences, including IEEE TPAMI, National Science Review, Physics of Fluids, and AAAI. If you are interested in my research or would like to explore potential collaboration, please feel free to contact me via <u>rayzhang@ruc.edu.cn</u> (Email) or **optray** (WeChat).
+Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My main research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences, including IEEE TPAMI, National Science Review, ICML, and AAAI. If you are interested in my research or would like to explore potential collaboration, please feel free to contact me via <u>rayzhang@ruc.edu.cn</u> (Email) or **optray** (WeChat).
 
 *I am currently seeking a tenure-track faculty position. If you have any suitable openings, please feel free to contact me.*
 
@@ -30,6 +30,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + **Selected Publications**
     * **Zhang, R.**, Wan, H., Liu, Y., Sun, H.\# (2025). Stable Spectral Neural Operator for Learning Stiff PDE Systems from Limited Data. arXiv preprint arXiv:2512.11686.
     * **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2025). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
+    * Sun, G.\*, Mian, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
     * **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
     * **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
     * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
