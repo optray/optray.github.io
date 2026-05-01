@@ -13,9 +13,7 @@ Note: * equal contribution, \# corresponding author
 ## 2026
 
 + Zhou, H., **Zhang, R.**\#, Wan, H., & Sun, H.\# (2026). PerFlow: Physics-Embedded Rectified Flow for Efficient Reconstruction and Uncertainty Quantification of Spatiotemporal Dynamics. _International Joint Conference on Artificial Intelligence._
-
 + Sun, G.\*, Mian, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
-
 + Wan, H., Wang, Q., Mi, Y., **Zhang, R.**\#, & Sun, H.\# (2026). PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-sampled Spatiotemporal Dynamics. _Proceedings of the AAAI Conference on Artificial Intelligence._ 
 + Du, X.\*\#, Dou, Q.\*, Fan, L., & **Zhang, R.**\# (2026). Flexible Concept Bottleneck Model. _Proceedings of the AAAI Conference on Artificial Intelligence._
   
