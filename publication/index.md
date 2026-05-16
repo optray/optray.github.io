@@ -8,10 +8,10 @@ Note: * equal contribution, \# corresponding author
 + Mao, R.\*, **Zhang, R.**\*, Bai, X., Wu, T., Zhang, T., Chen, Z., Lin, M., Zeng, B., Xu, Y., Xiang, Y., Zhang, H., Goswami, S., Dawe, P. A., Xu, Y., An, Z., Yan, M., Lu, X., Wang, Y., Bai, R., Gao, H., Fang, X., Li, H., Sun, H.\#, Chen, Z. X.\# (2026). Benchmarking Neural Surrogates on Realistic Spatiotemporal Multiphysics Flows. arXiv preprint arXiv:2512.18595.
 + **Zhang, R.**, Wan, H., Liu, Y., Sun, H.\# (2026). Stable Spectral Neural Operator for Learning Stiff PDE Systems from Limited Data. arXiv preprint arXiv:2512.11686.
 + **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2026). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.
-+ Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. arXiv preprint arXiv:2505.21573.
 
 ## 2026
 
++ Wan, H., **Zhang, R.**\#, & Sun, H. (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. _SIGKDD Conference on Knowledge Discovery and Data Mining._
 + Zhou, H., **Zhang, R.**\#, Wan, H., & Sun, H.\# (2026). PerFlow: Physics-Embedded Rectified Flow for Efficient Reconstruction and Uncertainty Quantification of Spatiotemporal Dynamics. _International Joint Conference on Artificial Intelligence._
 + Sun, G.\*, Mian, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
 + Wan, H., Wang, Q., Mi, Y., **Zhang, R.**\#, & Sun, H.\# (2026). PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-sampled Spatiotemporal Dynamics. _Proceedings of the AAAI Conference on Artificial Intelligence._ 
