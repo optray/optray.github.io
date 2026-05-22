@@ -11,6 +11,9 @@ Note: * equal contribution, \# corresponding author
 
 ## 2026
 
+
++ Zhou, H., Xiong, A., Cao, L., Chen, L., **Zhang, R.**, Wang, Q., Liao, Z., Wan, H., Zeng, B., Li, C., Sun, H.\#. (2026). Generative Spatial Down-scaling of Global Ocean Wind Speed Profiles via a Diffusion Model. _Neurocomputing._
++ Zeng, B.\*, **Zhang, R.**\*, Mao, R., Yan, M., Bai, X., Liu, Y., Chen, Z. X., Sun, H.\#. (2026). NPSolver: Neural Poisson Solver with Iterative Physics Supervision. _ACM SIGKDD Conference on Knowledge Discovery and Data Mining._
 + Wan, H., **Zhang, R.**\#, & Sun, H. (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. _ACM SIGKDD Conference on Knowledge Discovery and Data Mining._
 + Zhou, H., **Zhang, R.**\#, Wan, H., & Sun, H.\# (2026). PerFlow: Physics-Embedded Rectified Flow for Efficient Reconstruction and Uncertainty Quantification of Spatiotemporal Dynamics. _International Joint Conference on Artificial Intelligence._
 + Sun, G.\*, Mian, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
