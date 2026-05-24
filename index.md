@@ -27,7 +27,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 + [<u>Publication</u>](publication)
 + **Selected Publications**
     * Wan, H., **Zhang, R.**\#, & Sun, H. (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. _ACM SIGKDD Conference on Knowledge Discovery and Data Mining._
-    * Sun, G.\*, Mian, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
+    * Sun, G.\*, Miao, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
     * **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
     * **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
     * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
