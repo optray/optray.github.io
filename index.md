@@ -40,7 +40,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 * **2016**: Excellent Scholarship in ECNU
 
 # Reviewers
-* **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), IEEE Transactions on Services Computing (IEEE TSC), Transactions on Machine Learning Research (TMLR), ACM Transactions on AI for Science (ACM TAIS), Machine Intelligence Research (MIR), Physics of Fluids (POF)
+* **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), IEEE Transactions on Services Computing (IEEE TSC), Transactions on Machine Learning Research (TMLR), ACM Transactions on AI for Science (ACM TAIS), Machine Intelligence Research (MIR), Physical Review Fluids (PRF), Physics of Fluids (POF)
 * **Conference**: Neural Information Processing Systems (NeurIPS), International Conference on Learning Representations (ICLR), International Conference on Machine Learning (ICML), Knowledge Discovery and Data Mining (KDD), AAAI Conference on Artificial Intelligence (AAAI)
 
 # Misc
