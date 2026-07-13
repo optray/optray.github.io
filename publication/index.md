@@ -1,10 +1,15 @@
 ---
-layout: base 
+layout: base
+title: Publications
+description: Publications by Rui Zhang in physics-driven machine learning, neural operators, and interpretable neural networks.
+page_class: publication-page
 ---
 
-# Publication
-Note: * equal contribution, \# corresponding author
-## Perprint
+# Publications
+
+<p class="publication-note"><strong>Notation:</strong> * equal contribution; # corresponding author.</p>
+
+## Preprints
 + Mao, R.\*, **Zhang, R.**\*, Bai, X., Wu, T., Zhang, T., Chen, Z., Lin, M., Zeng, B., Xu, Y., Xiang, Y., Zhang, H., Goswami, S., Dawe, P. A., Xu, Y., An, Z., Yan, M., Lu, X., Wang, Y., Bai, R., Gao, H., Fang, X., Li, H., Sun, H.\#, Chen, Z. X.\# (2026). Benchmarking Neural Surrogates on Realistic Spatiotemporal Multiphysics Flows. arXiv preprint arXiv:2512.18595.
 + **Zhang, R.**, Wan, H., Liu, Y., Sun, H.\# (2026). Stable Spectral Neural Operator for Learning Stiff PDE Systems from Limited Data. arXiv preprint arXiv:2512.11686.
 + **Zhang, R.**, Meng, Q., Wan, H., Liu, Y., Ma, Z-M., & Sun, H. (2026). OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics. arXiv preprint arXiv:2506.10862.

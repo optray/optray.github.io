@@ -2,24 +2,46 @@
 layout: base 
 ---
 
-<div class="about">
-  <div class="profile">
-    <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}",width="100%" />
-    <div class="info">
-      <div class="title">{{ site.author.name }}</div>
-      <div class="description">{{ site.author.desc }}</div>
-    </div>
-  </div>
+<article class="academic-home">
+  <header class="profile-grid">
+    <img
+      class="profile-photo"
+      src="{{ site.author.selfie | relative_url }}"
+      alt="Portrait of {{ site.author.name }}"
+      width="220"
+      height="220"
+    >
 
-  <div class="content">
-    {{ content }}
-    </br>
-    <div class="social-layer">
-      <div class="social-icons">
-        <ul>
-          {% include icons.html %}
-        </ul>
-      </div>
+    <div class="profile-details">
+      <h1>{{ site.author.name }}</h1>
+      <p class="profile-role">{{ site.author.role }}</p>
+      <p>
+        {{ site.author.affiliation }}<br>
+        {{ site.author.institution }}<br>
+        {{ site.author.location }}
+      </p>
+      <p><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+      <p class="profile-links">
+        <a href="{{ site.author.scholar }}">Google Scholar</a>
+        <span aria-hidden="true">/</span>
+        <a href="{{ site.author.github }}">GitHub</a>
+        <span aria-hidden="true">/</span>
+        <a href="{{ '/publication/' | relative_url }}">All Publications</a>
+      </p>
     </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Homepage sections">
+    <a href="#publications">Selected Publications</a>
+    <span aria-hidden="true">/</span>
+    <a href="#experience">Experience &amp; Service</a>
+    <span aria-hidden="true">/</span>
+    <a href="#awards">Awards</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ '/misc/' | relative_url }}">Misc</a>
+  </nav>
+
+  <div class="academic-content">
+    {{ content }}
   </div>
-</div>
+</article>

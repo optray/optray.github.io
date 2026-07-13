@@ -1,0 +1,276 @@
+.academic-main,
+.page-main,
+.site-header-inner,
+.site-footer {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 750px;
+  width: calc(100% - 40px);
+}
+
+.academic-main {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  padding-top: 58px;
+}
+
+.academic-main p,
+.academic-main li,
+.academic-main ul {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 20px;
+}
+
+.academic-main a,
+.page-main a {
+  color: #428bca;
+}
+
+.academic-main a:hover,
+.academic-main a:focus,
+.page-main a:hover,
+.page-main a:focus {
+  text-decoration: underline;
+}
+
+.profile-grid {
+  align-items: start;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: 220px minmax(0, 1fr);
+}
+
+.profile-photo {
+  height: 220px;
+  margin: 0;
+  object-fit: cover;
+  object-position: center 18%;
+  width: 220px;
+}
+
+.profile-details {
+  min-width: 0;
+  padding-top: 1px;
+}
+
+.profile-details h1 {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 40px;
+  margin: 0 0 18px;
+}
+
+.profile-details p {
+  margin: 0 0 8px;
+}
+
+.profile-details .profile-role {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.profile-details .profile-links {
+  margin-bottom: 0;
+}
+
+.section-nav {
+  border-bottom: 1px solid #e5e5e5;
+  border-top: 1px solid #e5e5e5;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 18px 0 16px;
+  padding: 17px 0;
+}
+
+.section-nav span {
+  color: #666;
+  margin: 0 4px;
+}
+
+.academic-content > h1 {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 20px 0 8px;
+  scroll-margin-top: 16px;
+}
+
+.academic-content > h2 {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 16px 0 6px;
+}
+
+.academic-content p {
+  margin: 0 0 10px;
+}
+
+.academic-content ul {
+  margin: 0 0 12px 22px;
+  padding: 0;
+}
+
+.academic-content li {
+  margin: 0 0 4px;
+  padding: 0;
+}
+
+.academic-content li > ul {
+  margin-bottom: 5px;
+  margin-top: 4px;
+}
+
+.site-header {
+  border-bottom: 1px solid #e5e5e5;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.site-header-inner {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  min-height: 66px;
+}
+
+.site-header-inner a {
+  color: #333;
+}
+
+.site-header-inner nav {
+  display: flex;
+  gap: 24px;
+}
+
+.site-header-inner nav a {
+  color: #428bca;
+  font-size: 14px;
+}
+
+.site-header-inner .site-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.page-main {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 28px 0;
+}
+
+.page-main p,
+.page-main li,
+.page-main ul {
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 20px;
+}
+
+.publication-page > h1 {
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38px;
+  margin: 0 0 8px;
+}
+
+.publication-page .publication-note {
+  color: #666;
+  font-size: 13px;
+  margin: 0 0 28px;
+}
+
+.publication-page > h2 {
+  border-bottom: 1px solid #e5e5e5;
+  color: #333;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  margin: 30px 0 14px;
+  padding-bottom: 7px;
+}
+
+.publication-page > ul {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.publication-page > ul > li {
+  line-height: 21px;
+  margin-bottom: 12px;
+  padding-left: 2px;
+}
+
+.publication-page em {
+  color: #555;
+}
+
+.site-footer {
+  border-top: 1px solid #e5e5e5;
+  color: #666;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  margin-top: 30px;
+  padding: 18px 0 28px;
+  text-align: left;
+}
+
+@media (max-width: 640px) {
+  .academic-main {
+    padding-top: 28px;
+  }
+
+  .profile-grid {
+    gap: 20px;
+    grid-template-columns: 1fr;
+  }
+
+  .profile-photo {
+    height: 180px;
+    width: 180px;
+  }
+
+  .profile-details h1 {
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 14px;
+  }
+
+  .section-nav {
+    font-size: 16px;
+  }
+
+  .site-header-inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 14px 0;
+  }
+
+  .site-header-inner nav {
+    gap: 18px;
+  }
+
+  .publication-page > h1 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .publication-page > h2 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+}

@@ -1,48 +1,61 @@
 ---
-layout: about 
+layout: about
+description: Rui Zhang is a postdoctoral researcher working on physics-driven deep learning and interpretable neural networks.
 ---
 
-# Short Bio
-Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My main research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences, including IEEE TPAMI, National Science Review, ICML, KDD, and AAAI. If you are interested in my research or would like to explore potential collaboration, please feel free to contact me via <u>rayzhang@ruc.edu.cn</u>.
+# About
+{: #about }
+
+Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher.
+
+My research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences including IEEE TPAMI, National Science Review, ICML, KDD, and AAAI. I am always happy to discuss research and potential collaborations.
 
 # Experience
-* 2024.9-Now: Post-Doc Researcher, [Renmin University of China, Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+{: #experience }
+
+* **2024.9-Present:** Postdoctoral Researcher, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/)
   * Supervisor: [Hao Sun](https://gsai.ruc.edu.cn/haosun)
-* 2019.9-2024.6: PhD Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
+* **2019.9-2024.6:** Ph.D. Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
   * Major: Probability and Mathematical Statistics
   * Supervisor: [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html)
-* 2022.5-2023.7: Research Intern, [AI4Science Asia, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+* **2022.5-2023.7:** Research Intern, [Microsoft Research AI4Science Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
   * Group: Large-scale PDEs
   * Mentor: [Qi Meng](http://homepage.amss.ac.cn/research/homePage/a8636013d63440498442e91a549202f1/myHomePage.html#home)
-* 2015.9-2019.6: BS, [School of Mathematical Science, East China Normal University](https://math.ecnu.edu.cn/)
-  * Major: Mathematics and Applied Mathematics
-    
-# Grants
-* **2026**: Young Scientists Fund of the NSFC (PI)
-* **2025**: Postdoctoral Fellowship Program of CPSF (Tier B)
-* **2025**: China Postdoctoral Science Foundation (PI)
+* **2015.9-2019.6:** B.S. in Mathematics and Applied Mathematics, [East China Normal University](https://math.ecnu.edu.cn/)
 
-# Publication
-+ [Google Scholar](https://scholar.google.com/citations?user=8V50qncAAAAJ&hl=zh-CN&oi=sra)
-+ [<u>Publication</u>](publication)
-+ **Selected Publications**
-    * Wan, H., **Zhang, R.**\#, & Sun, H. (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. _ACM SIGKDD Conference on Knowledge Discovery and Data Mining._
-    * Sun, G.\*, Miao, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. _International Conference on Machine Learning._
-    * **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10916840) [Code](https://github.com/optray/MCNP)
-    * **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. _IEEE Transactions on Pattern Analysis and Machine Intelligence._ [Link](https://ieeexplore.ieee.org/document/10740789/) [Code](https://github.com/deepopo/DCBM)
-    * **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. _National Science Review._ [Link](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) [Code](https://github.com/optray/PIANO)
+# Grants
+{: #grants }
+
+* **2026-2028:** National Key R&D Program of China (Co-PI, responsible for ¥**1 million**)
+* **2026-2027:** National Key R&D Program of China, Disruptive Technology Project (Co-PI, responsible for ¥**2.2 million**)
+* **2026-2028:** NSFC Young Scientists Fund (PI, ¥**300,000**)
+* **2025-2026:** National Postdoctoral Fellowship Program, Tier B (¥**360,000**)
+* **2025-2026:** China Postdoctoral Science Foundation General Program (PI, ¥**80,000**)
+
+# Publications
+{: #publications }
+
+[Google Scholar]({{ site.author.scholar }}) / [Full publication list]({{ '/publication/' | relative_url }})
+
+## Selected and Recent Work
+
+* Wan, H., **Zhang, R.**\#, & Sun, H. (2026). Spectral-inspired Operator Learning with Limited Data and Unknown Physics. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining.*
+* Sun, G.\*, Miao, T.\*, Huang, H., Chen, H., Wan, H., **Zhang, R.**\#, & Sun, H.\# (2026). Geometry-Aware Neural Optimizer for Shape Optimization and Inversion. *International Conference on Machine Learning.*
+* **Zhang, R.**, Meng, Q., Zhu, R., Wang, Y., Shi, W., Zhang, S., Ma, Z.M., & Liu, T.Y. (2025). Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation. *IEEE Transactions on Pattern Analysis and Machine Intelligence.* [Paper](https://ieeexplore.ieee.org/document/10916840) / [Code](https://github.com/optray/MCNP)
+* **Zhang, R.**\*, Du, X.\*, Yan, J., & Zhang, S. (2025). The Decoupling Concept Bottleneck Model. *IEEE Transactions on Pattern Analysis and Machine Intelligence.* [Paper](https://ieeexplore.ieee.org/document/10740789/) / [Code](https://github.com/deepopo/DCBM)
+* **Zhang, R.**, Meng, Q., & Ma, Z.M. (2024). Deciphering and Integrating Invariants for Neural Operator Learning with Various Physical Mechanisms. *National Science Review.* [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad336/7503933) / [Code](https://github.com/optray/PIANO)
 
 # Selected Awards
-* **2023**: AMSS Special Prize of President Scholarship
-* **2022**: [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
-* **2019**: Outstanding Undergraduate in Shanghai
-* **2018**: Second Prize, National Undergraduate Mathematics Contest Final
-* **2016**: Excellent Scholarship in ECNU
+{: #awards }
 
-# Reviewers
-* **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), IEEE Transactions on Services Computing (IEEE TSC), Transactions on Machine Learning Research (TMLR), ACM Transactions on AI for Science (ACM TAIS), Machine Intelligence Research (MIR), Physical Review Fluids (PRF), Physics of Fluids (POF)
-* **Conference**: Neural Information Processing Systems (NeurIPS), International Conference on Learning Representations (ICLR), International Conference on Machine Learning (ICML), Knowledge Discovery and Data Mining (KDD), AAAI Conference on Artificial Intelligence (AAAI)
+* **2023:** AMSS Special Prize of President Scholarship
+* **2022:** [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
+* **2019:** Outstanding Undergraduate in Shanghai
+* **2018:** Second Prize, National Undergraduate Mathematics Contest Final
+* **2016:** Excellent Scholarship in ECNU
 
-# Misc
-+ [<u>Misc</u>](motto)
+# Academic Service
+{: #service }
 
+* **Journals:** IEEE TPAMI, IEEE TKDE, IEEE TSC, TMLR, ACM TAIS, Machine Intelligence Research, Physical Review Fluids, and Physics of Fluids
+* **Conferences:** NeurIPS, ICLR, ICML, KDD, and AAAI
