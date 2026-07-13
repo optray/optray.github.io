@@ -49,7 +49,7 @@ My research interests include **physics-driven deep learning** and **interpretab
 {: #awards }
 
 * **2023:** AMSS Special Prize of President Scholarship
-* **2022:** [Hua Loo-Keng Scholarship](http://admission.amss.ac.cn/jlsq/hlgjxj/202208/t20220827_713444.html)
+* **2022:** Hua Loo-Keng Scholarship
 * **2019:** Outstanding Undergraduate in Shanghai
 * **2018:** Second Prize, National Undergraduate Mathematics Contest Final
 * **2016:** Excellent Scholarship in ECNU
