@@ -4,30 +4,25 @@
   {% include head.html %}
 
   <body>
-    <nav class="nav">
-      <div class="nav-container">
-        <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title">{{ site.title }}</h2>
-        </a>
-        <ul>
-          <li><a href="{{ '/' | prepend: site.baseurl }}">About Me</a></li>
-		  <li><a href="{{ '/publication' | prepend: site.baseurl }}">Publication</a></li>
-		 <li><a href="{{ '/motto' | prepend: site.baseurl }}">Misc</a></li>
-        </ul>
-    </div>
-  </nav>
+    {% unless page.layout == 'about' %}
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="site-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+        <nav aria-label="Primary navigation">
+          <a href="{{ '/' | relative_url }}">About</a>
+          <a href="{{ '/publication/' | relative_url }}">Publications</a>
+          <a href="{{ '/misc/' | relative_url }}">Misc</a>
+        </nav>
+      </div>
+    </header>
+    {% endunless %}
 
-    <main>
+    <main class="{% if page.layout == 'about' %}academic-main{% else %}page-main{% endif %}{% if page.page_class %} {{ page.page_class }}{% endif %}">
       {{ content }}
     </main>
 
-	  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=n&d=pHcDgAhUGrjoQDoKynFZZl7U-pc58Az2jFEMMZJnrYY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-
-    <footer>
-      <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
-      </span>
+    <footer class="site-footer">
+      <span>&copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.</span>
     </footer>
-	
   </body>
 </html>

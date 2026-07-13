@@ -3,11 +3,13 @@
   <meta name="google-site-verification" content="IWg4Ri_9YZpprlM2HvDqwsaKivsP9cTnUNhiVF4Nl-c" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  <link rel="stylesheet" href="{{ "/assets/css/academic.css" | relative_url }}">
   
   <!-- Font Awesome -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/fontawesome-all.min.css">
