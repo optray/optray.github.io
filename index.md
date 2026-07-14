@@ -6,9 +6,7 @@ description: Rui Zhang is a postdoctoral researcher working on physics-driven de
 # About
 {: #about }
 
-Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher.
-
-My research interests include **physics-driven deep learning** and **interpretable neural networks**. My work has been published in journals and conferences including IEEE TPAMI, National Science Review, ICML, KDD, and AAAI. I am always happy to discuss research and potential collaborations.
+Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My research interests include **physics-driven deep learning** and **interpretable neural networks**. 
 
 # Experience
 {: #experience }
