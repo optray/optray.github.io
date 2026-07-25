@@ -1,17 +1,16 @@
 ---
 layout: about
-description: Rui Zhang is a postdoctoral researcher working on physics-driven deep learning and interpretable neural networks.
 ---
 
 # About
 {: #about }
 
-Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019 and a Ph.D. in Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2024. After completing my doctorate, I joined Renmin University of China as a postdoctoral researcher. My research interests include **physics-driven deep learning** and **interpretable neural networks**. 
+Rui Zhang is currently an Assistant Professor at the Gaoling School of Artificial Intelligence, Renmin University of China. He received his B.S. degree from the School of Mathematical Sciences, East China Normal University in 2019, and his Ph.D. degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2024. From 2024 to 2026, he was a Postdoctoral Researcher at the Gaoling School of Artificial Intelligence, Renmin University of China. His research focuses on the theory, algorithms, and applications of intelligent scientific computing, with particular interests in integrating physical laws with artificial intelligence for modeling, inversion, control, and optimization of complex physical systems.
 
 # Experience
 {: #experience }
-
-* **2024.9-Present:** Postdoctoral Researcher, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/)
+* **2026.8-Present:** Assistant Professor, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/)
+* **2024.9-2026.8:** Postdoctoral Researcher, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/)
   * Supervisor: [Hao Sun](https://gsai.ruc.edu.cn/haosun)
 * **2019.9-2024.6:** Ph.D. Student, [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://www.amss.ac.cn/)
   * Major: Probability and Mathematical Statistics
@@ -45,7 +44,7 @@ Hi, I'm Rui. I obtained my B.S. degree from East China Normal University in 2019
 
 # Selected Awards
 {: #awards }
-
+* **2026:** Young Talents Program of Renmin University of China
 * **2023:** AMSS Special Prize of President Scholarship
 * **2022:** Hua Loo-Keng Scholarship
 * **2019:** Outstanding Undergraduate in Shanghai
