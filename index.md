@@ -5,7 +5,7 @@ layout: about
 # About
 {: #about }
 
-Rui Zhang is currently an Assistant Professor at the Gaoling School of Artificial Intelligence, Renmin University of China. He received his B.S. degree from the School of Mathematical Sciences, East China Normal University in 2019, and his Ph.D. degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2024. From 2024 to 2026, he was a Postdoctoral Researcher at the Gaoling School of Artificial Intelligence, Renmin University of China. His research focuses on the theory, algorithms, and applications of intelligent scientific computing, with interests in integrating physical laws with deep learning for modeling, inversion, control, and optimization of complex physical systems.
+I am currently an Assistant Professor at the Gaoling School of Artificial Intelligence, Renmin University of China. I received my B.S. degree from the School of Mathematical Sciences, East China Normal University in 2019, and my Ph.D. degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2024. From 2024 to 2026, I was a Postdoctoral Researcher at the Gaoling School of Artificial Intelligence, Renmin University of China. My research focuses on the theory, algorithms, and applications of intelligent scientific computing, with particular interests in integrating physical laws with deep learning for the modeling, inversion, control, and optimization of complex physical systems.
 
 # Experience
 {: #experience }
