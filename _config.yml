@@ -1,6 +1,6 @@
 # Site settings
 title: Rui's Homepage
-description: Rui Zhang - research in physics-driven deep learning and interpretable neural networks.
+description: Rui Zhang
 baseurl: ""
 url: "https://optray.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
